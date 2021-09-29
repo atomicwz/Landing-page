@@ -83,7 +83,7 @@ ul{
     position: relative;
     display: flex;
     justify-content: left;
-    margin-top: 100px;
+    margin-top: 50px;
     padding-top: 60px;
 }
 .section-item{
@@ -483,7 +483,7 @@ ul{
     }
 
     .section-item{
-       width: 90%;
+       width: 70%;
     }
     .section-item H2{
         font-size: 2.5rem;
@@ -632,8 +632,8 @@ ul{
 
     .header-nav img{
         margin-top: 35px;
-        max-width: 30%;
-        max-height: 20px;
+        max-width: 35%;
+        max-height:6vh;
     }
 
     .title-box{
