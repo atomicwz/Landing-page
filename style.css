@@ -410,16 +410,17 @@ ul{
         font-family: 'Josefin Sans', sans-serif;
         font-size: 2rem;
         height: 75vh;
+        z-index: 1;
 
     }
     .header-nav img{
         margin-top: 20px;
-        min-width: 270px;
-        min-height: 55px;
+        min-height: 40px;
+        width: 30%;
         margin-left: 40px;
     }
     #nav.active #menu{
-        z-index: 1;
+
         display: flex;
         flex-direction: column;   
         gap: 20px;
@@ -625,8 +626,31 @@ ul{
 
 
     .header-nav img{
-        max-height: 1vh;
+        max-width: 30%;
     }
+
+    .title-box{
+        max-width: 60%;
+    }
+    .title-box h1{
+        max-width: 90%;
+        font-size: 1.2rem;
+    }
+
+    /* sessao 1 */
+    .section-item h2{
+        font-size: 1.8rem;
+    }
+    .section-content{
+        z-index: 0;
+    }
+
+    .section-content-2 h2{
+        max-width: 70%;
+        font-size: 1.8rem;
+
+    }
+
 }
 
 
