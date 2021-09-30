@@ -409,7 +409,7 @@ ul{
         background: rgba(0,0,0,1);
         font-family: 'Josefin Sans', sans-serif;
         font-size: 2rem;
-        height: 90vh;
+        height: 100vh;
         z-index: 1;
 
     }
@@ -633,8 +633,8 @@ ul{
 
     .header-nav img{
         margin-top: 35px;
-        max-width: 35%;
-        max-height:6vh;
+        max-width: 40%;
+        max-height:5.3vh;
     }
 
     .title-box{
